@@ -53,13 +53,13 @@ The first dashboard provides an overview of Olympic medal performance, including
 - Medal distribution
 - Interactive slicers for Year, Team, City, Season, and Sex
 
-![Dashboard](dashboard.png)
+[Dashboard](dashboard1.png)
 
 ### Dashboard 2
 
 The second dashboard provides additional Olympic analysis and visual insights.
 
-![Dashboard 2](dashboard%202.png)
+[Dashboard 2](dashboard2.png)
 
 ## 📊 Key Analysis
 
@@ -75,17 +75,7 @@ The project includes analysis of:
 8. Team and country-level analysis
 9. Gender-based analysis using the Sex filter
 
-## 📁 Project Structure
 
-```text
-120-Years-Olympic-History/
-│
-├── athlete_events.csv
-├── Olympic_Analysis.xlsx
-├── dashboard.png
-├── dashboard 2.png
-└── README.md
-```
 
 ## 💡 Project Insights
 
@@ -101,16 +91,4 @@ It also demonstrates practical skills in:
 - Dashboard design
 - Interactive reporting
 
-## 🚀 Skills Demonstrated
 
-**Excel | Power Query | PivotTables | PivotCharts | Data Cleaning | Data Analysis | Data Visualization | Dashboard Development**
-
-## 👤 About Me
-
-I am a **BA Economics graduate currently learning Data Analytics** and building practical projects using Excel and Power BI.
-
-This project is part of my data analytics learning journey and portfolio.
-
----
-
-⭐ If you find this project useful, feel free to explore the files and dashboards.
