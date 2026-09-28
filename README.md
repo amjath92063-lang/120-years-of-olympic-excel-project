@@ -53,13 +53,13 @@ The first dashboard provides an overview of Olympic medal performance, including
 - Medal distribution
 - Interactive slicers for Year, Team, City, Season, and Sex
 
-[Dashboard](dashboard1.png)
+![Dashboard 1](dashboard1.png)
 
 ### Dashboard 2
 
 The second dashboard provides additional Olympic analysis and visual insights.
 
-[Dashboard 2](dashboard2.png)
+![Dashboard 2](dashboard2.png)
 
 ## 📊 Key Analysis
 
